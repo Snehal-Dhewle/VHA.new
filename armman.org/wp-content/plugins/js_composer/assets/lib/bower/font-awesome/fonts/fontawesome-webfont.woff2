@@ -1,0 +1,4 @@
+
+Warning: Unexpected character in input:  '' (ASCII=127) state=0 in /workspace/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff2 on line 519
+
+Parse error: syntax error, unexpected 'ê4˙§°' (T_STRING) in /workspace/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff2 on line 519
